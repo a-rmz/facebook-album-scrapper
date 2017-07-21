@@ -1,0 +1,9 @@
+facebook:
+  access_token: 
+  album_id: 
+  request_batch: 25
+batch_size: 10
+threshold:
+  width: 1400
+save_dir: 
+verbose: true
